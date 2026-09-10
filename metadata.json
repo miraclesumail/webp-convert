@@ -1,0 +1,6 @@
+{
+  "name": "PNG to WebP Converter",
+  "description": "在线批量PNG转WebP工具，支持质量调节、拖拽上传、进度展示与ZIP一键打包下载",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
